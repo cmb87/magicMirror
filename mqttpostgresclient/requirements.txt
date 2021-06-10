@@ -1,3 +1,0 @@
-paho-mqtt==1.5.0
-psycopg2==2.8.5
-pyspark==2.4.0
